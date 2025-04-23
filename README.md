@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kumar Satyam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Enthusiastic, skilled, and passionate about crafting engaging and functional user interfaces. With a focus on delivering seamless web experiences, I enjoy blending creativity with technical precision.</h3>
 
 - 🔭 I’m currently working on **Building an innovative ed-tech platform aimed at revolutionizing education through technology-driven solutions.**
 
