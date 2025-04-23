@@ -7,6 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on **Building an innovative ed-tech platform aimed at revolutionizing education through technology-driven solutions.**
+
+- 🌱 I’m currently learning **Nextjs & Docker**
+
+- 👯 I’m looking to collaborate on **Creative scalablw websites initiatives to enhance digital learning experiences for diverse audiences.**
+
 - 📫 How to reach me **www.linkedin.com/in/kumar-satyam-298507250**
 
 <h3 align="left">Connect with me:</h3>
