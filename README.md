@@ -1,73 +1,97 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23098
-Fork on GitHub
-7765
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there+👋%2C+I'm+Satyam" alt="Typing SVG" />
+</h1>
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h1 align="center">Hi 👋, I'm Kumar Satyam</h1>
-<h3 align="center">Enthusiastic, skilled, and passionate about crafting engaging and functional user interfaces. With a focus on delivering seamless web experiences, I enjoy blending creativity with technical precision.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam23092003&label=Profile%20views&color=0e75b6&style=flat" alt="satyam23092003" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyam23092003" alt="satyam23092003" /></a> </p>
-
-- 🔭 I’m currently working on **Building an innovative ed-tech platform aimed at revolutionizing education through technology-driven solutions.**
-
-- 🌱 I’m currently learning **Nextjs & Docker**
-
-- 👯 I’m looking to collaborate on **Creative scalablw websites initiatives to enhance digital learning experiences for diverse audiences.**
-
-- 🤝 I’m looking for help with **Expanding the reach and scalability of the ed-tech platform, particularly through partnerships and cutting-edge tools.**
-
-- 💬 Ask me about **react.js,node.js,express.js**
-
-- 📫 How to reach me **www.linkedin.com/in/kumar-satyam-298507250**
-
-- ⚡ Fun fact **believe education and humor go hand in hand—learning is always better with a smile!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kumar satyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumar satyam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kumar satyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kumar satyam" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kumarsatywfph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kumarsatywfph" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satyam23092003&label=Profile%20views&color=0e75b6&style=flat" alt="satyam23092003" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam23092003&show_icons=true&locale=en" alt="satyam23092003" /></p>
+## 💫 About Me
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+🔭 **Currently Working On:**  
+- An innovative **ed-tech platform** to revolutionize learning.  
+- MERN-based projects and scalable APIs.
+
+🌱 **Learning:**  
+- **Next.js** and **Docker** for modern app development.
+
+👯 **Looking to Collaborate On:**  
+- Creative, scalable **full-stack web apps**.  
+- Educational tech solutions and real-world SaaS tools.
+
+🤝 **Need Help With:**  
+- Scaling and outreach of my ed-tech product.  
+- Partnerships and backend infra.
+
+💬 **Ask Me About:**  
+- React.js, Node.js, Express.js, MongoDB.
+
+📫 **Reach Me At:**  
+[LinkedIn](https://www.linkedin.com/in/kumar-satyam-298507250)
+
+⚡ **Fun Fact:**  
+I believe education + humor = better learning 🤓🎉
+
+---
+
+## 🏆 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kumar%20satyam)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kumarsatywfph)
+
+---
+
+## 💻 Tech Stack
+
+### 🌐 Frontend  
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+### ⚙️ Backend  
+![Node.js](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Nodemailer](https://img.shields.io/badge/nodemailer-E4405F?style=for-the-badge&logo=gmail&logoColor=white)
+
+### 🛢️ Database  
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧰 Dev Tools  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🛠️ Languages  
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/c++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=satyam23092003&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=satyam23092003&theme=prussian&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam23092003&theme=prussian&hide_border=true&layout=compact)
+
+---
+
+## 🏅 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=satyam23092003&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=satyam23092003&icon=2&color=0)](https://visitcount.itsvg.in)
+
