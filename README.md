@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there+👋%2C+I'm+Satyam" alt="Typing SVG" />
 </h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there+👋%2C+I'm+Satyam" alt="Typing SVG" />
-</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satyam23092003&label=Profile%20views&color=0e75b6&style=flat" alt="satyam23092003" />
