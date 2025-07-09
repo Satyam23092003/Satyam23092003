@@ -39,8 +39,12 @@ I believe education + humor = better learning 🤓🎉
 
 ## 🏆 Coding Profiles
 
+## 🏆 Coding Profiles
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kumar%20satyam)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kumarsatywfph)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kumarsatywfph)  
+[![Take U Forward](https://img.shields.io/badge/Take%20U%20Forward-Handsome__Mango-orange?style=for-the-badge&logo=target&logoColor=white)](https://takeuforward.org/plus/profile/Handsome_Mango)
+
 
 ---
 
